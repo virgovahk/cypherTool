@@ -56,7 +56,7 @@ NB! As long as the shift number for Caesar cipher is between -9,223,372,036,854,
 If you're getting ```fatal: destination path 'cypherTool' already exists and is not an empty directory.``` then:
 * (in the vscode terminal): ```mkdir review```
 * ```cd review```
-* ```git clone https://gitea.kood.tech/KKalvik/cypherTool.git```
+* ```git clone https://gitea.kood.tech/virgovahk/cypherTool.git```
 * ```cd CypherTool```
 * ```java CypherTool.java```
 
