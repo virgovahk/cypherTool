@@ -46,7 +46,7 @@ NB! As long as the shift number for Caesar cipher is between -9,223,372,036,854,
 <br>
 
 ### How to run:
-* ```git clone https://gitea.kood.tech/KKalvik/cypherTool.git```
+* ```git clone https://gitea.kood.tech/virgovahk/cypherTool.git```
 * ```cd CypherTool```
 * ```java CypherTool.java```
 <br>
